@@ -50,7 +50,7 @@ project/
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/TU_USUARIO/mindsync.git
+git remote add origin https://github.com/JesusAgamez-sudo/mindsync.git
 cd mindsync
 
 # Instala las dependencias
